@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\NguyenTuThanhDat_Buoi11_BoSung\KT_THU\KT_THU\bin\Debug\KT_THU.exe.config
+E:\LuuDuLieuSinhVien\NguyenTuThanhDat_Buoi11_BoSung\KT_THU\KT_THU\bin\Debug\KT_THU.exe
+E:\LuuDuLieuSinhVien\NguyenTuThanhDat_Buoi11_BoSung\KT_THU\KT_THU\bin\Debug\KT_THU.pdb
+E:\LuuDuLieuSinhVien\NguyenTuThanhDat_Buoi11_BoSung\KT_THU\KT_THU\obj\Debug\KT_THU.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NguyenTuThanhDat_Buoi11_BoSung\KT_THU\KT_THU\obj\Debug\KT_THU.Form1.resources
+E:\LuuDuLieuSinhVien\NguyenTuThanhDat_Buoi11_BoSung\KT_THU\KT_THU\obj\Debug\KT_THU.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\NguyenTuThanhDat_Buoi11_BoSung\KT_THU\KT_THU\obj\Debug\KT_THU.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\NguyenTuThanhDat_Buoi11_BoSung\KT_THU\KT_THU\obj\Debug\KT_THU.exe
+E:\LuuDuLieuSinhVien\NguyenTuThanhDat_Buoi11_BoSung\KT_THU\KT_THU\obj\Debug\KT_THU.pdb
